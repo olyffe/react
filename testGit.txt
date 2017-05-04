@@ -4,3 +4,5 @@ This doc is created for terminal-git testing.
 create a local branch, plan to push local code from zhangxu31's github to Olyffe's github
 
 add呵呵哒
+
+test fetch
